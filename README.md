@@ -219,10 +219,15 @@ int main()
  ![image](https://user-images.githubusercontent.com/36288975/198947184-dbccf4b1-10a1-4090-a670-93526ed6e597.png)
 
 
-
- 
 Figure -09 graph between % of pot(1Kohm) values and ADC 
 
+### tabulation:
+
+![table](https://user-images.githubusercontent.com/93427581/200186387-6ba4d430-032c-4691-bdba-ba124b06ed31.png)
+
+### Graph :
+
+![graph](https://user-images.githubusercontent.com/93427581/200186408-a1c22002-11fd-4010-b649-ac16357f8288.png)
 
 Output screen shots :
 
